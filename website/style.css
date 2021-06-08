@@ -1,0 +1,8 @@
+.main>h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.version {
+    color: gray;
+    font-style: italic;
+}

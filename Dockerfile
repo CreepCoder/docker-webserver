@@ -1,7 +1,7 @@
 # Pull base image.
 FROM nginxinc/nginx-unprivileged:stable-alpine
 
-#COPY nginx.conf /etc/nginx/nginx.conf
+COPY website /usr/share/nginx/html
 
 # Expose ports.
-EXPOSE 8000
+EXPOSE 8080
