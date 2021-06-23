@@ -1,5 +1,11 @@
 .main>h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    font-size: 5vw;
+}
+
+.text {
+    font-size: larger;
 }
 
 .version {
